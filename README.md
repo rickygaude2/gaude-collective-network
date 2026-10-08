@@ -1,5 +1,7 @@
 GAUD-E Collective Network
 
+"C:\Users\RICARDO RIFFO\Documents\GAUDE-Collective-AI-Scientific-Manuscript-2026.pdf"
+
 One global AI. Built, improved and powered by everyone.
 
 <img width="1312" height="1199" alt="ChatGPT Image 7 oct 2026, 22_16_41" src="https://github.com/user-attachments/assets/7951a499-c7ef-4adb-98ce-c927465b4be9" />
