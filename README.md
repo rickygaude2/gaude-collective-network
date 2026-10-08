@@ -2,6 +2,9 @@ GAUD-E Collective Network
 
 One global AI. Built, improved and powered by everyone.
 
+<img width="1312" height="1199" alt="ChatGPT Image 7 oct 2026, 22_16_41" src="https://github.com/user-attachments/assets/7951a499-c7ef-4adb-98ce-c927465b4be9" />
+
+
 GAUD-E Collective Network is an open-source research project exploring a new model for artificial intelligence: a shared, global intelligence built and operated by a distributed community instead of a single centralized infrastructure provider.
 
 Participants can contribute GPU/CPU compute, AI inference, training, evaluation, validation, storage, bandwidth, software, research and licensed knowledge. The network coordinates these contributions, verifies useful work and can distribute protocol rewards according to transparent rules.
