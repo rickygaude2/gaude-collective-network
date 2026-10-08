@@ -7,7 +7,8 @@ GAUD-E Collective Network is an open-source research project exploring a new mod
 Participants can contribute GPU/CPU compute, AI inference, training, evaluation, validation, storage, bandwidth, software, research and licensed knowledge. The network coordinates these contributions, verifies useful work and can distribute protocol rewards according to transparent rules.
 
 Core idea
-C:\Users\RICARDO RIFFO\Downloads\Arquitectura de la Red IA Colectiva GAUD-E.png
+<img width="1536" height="1024" alt="Arquitectura de la Red IA Colectiva GAUD-E" src="https://github.com/user-attachments/assets/f37e1858-0b32-4b65-bd95-90333fb66bf2" />
+
 
 We are not building a separate AI for every participant. We are building one collective AI that evolves through contributions from the network.
 
